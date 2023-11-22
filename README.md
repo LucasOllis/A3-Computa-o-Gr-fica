@@ -4,27 +4,12 @@
 
 Um filtro divertido que permite realizar sorteios de respostas no Instagram.
 
-## Como usar
+## Pré-requisitos
 
-1. Abra o Instagram e vá para a seção de histórias.
+- [Spark AR Studio](https://spark.meta.com/download/)
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Navegue até o diretório do projeto: `cd seu-projeto`
-3. Instale as dependências: `npm install` (ou `yarn install`)
-4. ...
-
-## Pré-requisitos
-
--
-
-## Exemplo de Integração
-
-```
-
-## Capturas de Tela
-
-![Screenshot 1](caminho-para-screenshot-1.png)
-![Screenshot 2](caminho-para-screenshot-2.png)
-
+1. Faça o download do Spark AR Studio e instale o programa.
+2. Baixe o arquivo .ZIP disponivel no repositório e abra a pasta "Application", logo em seguida abra a pasta "Sorteio".
+3. Abra a aplicação "Sorteio" no formato de "arstudiowindows".
