@@ -2,4 +2,4 @@
 
 <p align="center">Escrever uma breve descrição</p>
 
-https://img.shields.io/badge/any_text-you_like-blue
+GET /badge/:badgeContent
