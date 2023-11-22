@@ -2,7 +2,7 @@
 
 &#9989; <b>Requisistos</b>
 
-* [SparkARStudio](https://spark.meta.com/download/)
+* [SparkARstudio] https://spark.meta.com/download/
 
 
 &#128221; <b>Execução</b>
