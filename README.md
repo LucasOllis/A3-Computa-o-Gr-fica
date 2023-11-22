@@ -4,7 +4,11 @@ O projeto em questão é uma aplicação de computação gráfica e realidade vi
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+1. Baixe e instale o Spark AR Studio e o arquivo .ZIP disponivel no repositório.
+2. Abra a pasta Projects>>Application>>Sorteio
+3. Execute o arquivo "Sorteio" em formato de "arstudiowindows"
+
+**Você estára visualizando a tela de criação do filtro com uma simulação em tempo real!**
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
