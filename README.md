@@ -1,6 +1,6 @@
 # Título do projeto
 
-Um parágrafo da descrição do projeto vai aqui
+O projeto em questão é uma aplicação de computação gráfica e realidade virtual desenvolvida utilizando o Spark AR Studio para criar um filtro interativo destinado ao Instagram e Facebook. A ferramenta PATCH EDITOR foi empregada para simplificar o processo de programação, permitindo a implementação de técnicas avançadas de maneira mais acessível. O filtro em si possui uma finalidade de entretenimento, apresentando-se como um filtro de sorteio de respostas. Utilizando elementos visuais atraentes e recursos interativos, os usuários podem participar do sorteio através de suas respostas. O ambiente de realidade virtual criado proporciona uma experiência envolvente e interativa para os usuários das plataformas sociais, destacando-se como uma aplicação inovadora e divertida.
 
 ## 🚀 Começando
 
