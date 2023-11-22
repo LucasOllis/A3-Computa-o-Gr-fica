@@ -2,4 +2,3 @@
 
 <p align="center">Escrever uma breve descrição</p>
 
-GET /badge/:badgeContent
