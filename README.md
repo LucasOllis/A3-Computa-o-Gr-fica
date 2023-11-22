@@ -2,4 +2,4 @@
 
 <p align="center">Escrever uma breve descrição</p>
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://img.shields.io/badge/any_text-you_like-blue
