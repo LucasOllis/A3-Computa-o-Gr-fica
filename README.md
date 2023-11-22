@@ -4,7 +4,6 @@
 
 * [SparkARstudio] https://spark.meta.com/download/
 
-
 &#128221; <b>Execução</b>
 
 
