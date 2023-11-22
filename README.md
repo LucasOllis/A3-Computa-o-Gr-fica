@@ -10,7 +10,7 @@ O projeto em questão é uma aplicação de computação gráfica e realidade vi
 
 **Você estára visualizando a tela de criação do filtro com uma simulação em tempo real!**
 
-<img src="/assets/img/arquivo.gif">
+<img src="/assets/img/img1.png">
 
 ## 🛠️ Construído com
 
