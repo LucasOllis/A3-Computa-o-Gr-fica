@@ -10,7 +10,7 @@ O projeto em questão é uma aplicação de computação gráfica e realidade vi
 
 **Você estára visualizando a tela de criação do filtro com uma simulação em tempo real!**
 
-<img src="/assets/img/img1.png">
+[<img src="/assets/img/img1.png">](https://github.com/LucasOllis/A3-Computa-o-Gr-fica/issues/1#issue-2007085800)
 
 ## 🛠️ Construído com
 
