@@ -16,6 +16,22 @@
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Spark AR Studio](https://spark.meta.com/download/). 
 
-`Ademais a isso certifique-se que o Patch Editor esteja ativado para visualização do código`
+`- Certifique-se que o Patch Editor esteja ativado para visualização do código`
 
-https://github.com/LucasOllis/A3-Computa-o-Gr-fica/assets/84053700/0c59950e-fb11-463d-9d9b-73d859ccea5f
+### Começando
+
+Estas instruções fornecerão uma cópia do projeto completo instalado e funcionando em sua máquina local para fins de desenvolvimento e teste.
+
+* Baixe e instale o Spark AR Studio e o arquivo .ZIP disponível no repositório.
+  
+* Abra o arquivo .ZIP e vá nas seguintes pastas:
+  
+  Projects>>Application>>Sorteio
+
+* Abra o arquivo "Sorteio" no formato "arstudiowindows"
+
+Você estará visualizando a interface com o projeto executado e poderá visualizar uma simulação do filtro em uma pessoa modelo no canto direito.
+
+`- Você pode interagir com a pessoa modelo ativando a opção "Simulate Touch" na parte inferior da aba "User(Sharing)".`
+
+https://github.com/LucasOllis/A3-Computa-o-Gr-fica/assets/84053700/0fc2b47d-f032-4bda-9f3d-78954f56c6df
