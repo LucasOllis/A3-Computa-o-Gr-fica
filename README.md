@@ -1,4 +1,4 @@
-<h1 align="center"> :rocket: Interatividade no Instagram com Reconhecimento Facial :rocket: </h1> 
+<h1 align="center"> :rocket: Interatividade no Instagram com Reconhecimento Facial</h1> 
 
 <p align="center">O projeto visa desenvolver um filtro para o Instagram e Facebook usando reconhecimento facial e interações por sorteio de respostas. A aplicação, construída na interface do Spark AR Studio, busca proporcionar uma experiência envolvente aos usuários.</p>
 
