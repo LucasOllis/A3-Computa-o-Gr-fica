@@ -18,3 +18,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 
 `Ademais a isso certifique-se que o Patch Editor esteja ativado para visualização do código`
 
+https://github.com/LucasOllis/A3-Computa-o-Gr-fica/assets/84053700/0c59950e-fb11-463d-9d9b-73d859ccea5f
