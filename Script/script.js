@@ -40,16 +40,6 @@ function start(){
 	sorting = true;
 }
 
-
-
-function getMaterials(){
-	var numeroDeRespostas = 14;
-	//Edite aqui para o numero de respostas do seu filtro
-	//Os materiais devem seguir o padrão de nomeclatura r1 r2 r3 r4 r5 r6 r7 r8 r9 r10 r11 r12 ...
-
-	for(var i = 1; i <= numeroDeRespostas; i++){
-		materials.push(Materials.get('r' + i));
-	}
 }
 
 function sortResult(){
