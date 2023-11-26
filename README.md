@@ -36,6 +36,8 @@ Você estará visualizando a interface com o projeto executado e poderá visuali
 
 https://github.com/LucasOllis/A3-Computa-o-Gr-fica/assets/84053700/0fc2b47d-f032-4bda-9f3d-78954f56c6df
 
+`OBS: Para visualizar o código em JavaScript vá até a pasta script disponível no repositório e o encontrara com detalhes.`
+
 ### :dart: Objetivos específicos
 
 1. Desenvolvimento do Filtro:
